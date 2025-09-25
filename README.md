@@ -4,8 +4,7 @@ The program asks the user which unit they are entering and outputs the temperatu
 Input validation ensures the program handles invalid unit codes and out-of-range temperature values.
 
 ## About the Project
-This project was created as part of my Intro to Programming course.  
-It demonstrates basic Python skills, including working with user input, conditional statements, mathematical operations, validation checks, and formatted output.  
+This project demonstrates Python skills, including working with user input, conditional statements, mathematical operations, validation checks, and formatted output.  
 
 
 ## Skills Practiced
