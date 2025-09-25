@@ -5,7 +5,7 @@ Input validation ensures the program handles invalid unit codes and out-of-range
 
 ## About the Project
 This project demonstrates Python skills, including working with user input, conditional statements, mathematical operations, validation checks, and formatted output.  
-The code for this project is included in the attached Python file (temperature_converter.py) and can be run directly to see these concepts in action.
+The code for this project is included in the attached Python file (JordanPangrazziCit129_pa5.py) and can be run directly to see these concepts in action.
 
 
 ## Skills Practiced
